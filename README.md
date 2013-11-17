@@ -1,6 +1,6 @@
-# Direct Upper House (DRAFT)
+# Direct Upper House system (DRAFT)
 
-The Direct Upper House system places the voting citizens as the upper house. 
+The Direct Upper House system places the voting citizens as the [upper house][upperhouse]. 
 Under the Direct Upper House system any existing form of upper house is replaced 
 by the Direct Upper House. If the existing system does not have an upper house 
 then Direct Upper House system will be implemented.
@@ -104,3 +104,5 @@ legislation becomes enshrined. This piece of legislation will require the same
 threshold to be reached to repeal or amend the legislation.
 
 Enshrined legislation can only be repealed or amended by an upper house vote.
+
+[upperhouse]: http://en.wikipedia.org/wiki/Upper_house "See Wikipedia, Upper house, http://en.wikipedia.org/wiki/Upper_house (details of existing upper house chambers) (as of Nov. 17, 2013, 14:25)"
